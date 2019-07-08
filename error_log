@@ -1,0 +1,26 @@
+[02-Dec-2018 08:03:35 Etc/GMT] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR) in /home/vflorkw5/public_html/vendor/myclabs/deep-copy/src/DeepCopy/deep_copy.php on line 5
+[02-Dec-2018 08:03:45 Etc/GMT] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR) in /home/vflorkw5/public_html/vendor/myclabs/deep-copy/src/DeepCopy/deep_copy.php on line 5
+[02-Dec-2018 08:04:41 Etc/GMT] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR) in /home/vflorkw5/public_html/vendor/myclabs/deep-copy/src/DeepCopy/deep_copy.php on line 5
+[02-Dec-2018 08:16:01 Etc/GMT] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR) in /home/vflorkw5/public_html/vendor/myclabs/deep-copy/src/DeepCopy/deep_copy.php on line 5
+[02-Dec-2018 08:17:17 Etc/GMT] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR) in /home/vflorkw5/public_html/vendor/myclabs/deep-copy/src/DeepCopy/deep_copy.php on line 5
+[02-Dec-2018 08:41:53 Etc/GMT] PHP Fatal error:  Class 'Mpdf\Mpdf' not found in /home/vflorkw5/public_html/application/controllers/Product.php on line 151
+[02-Dec-2018 08:42:36 Etc/GMT] PHP Fatal error:  Class 'Mpdf\Mpdf' not found in /home/vflorkw5/public_html/application/controllers/Product.php on line 136
+[02-Dec-2018 08:43:27 Etc/GMT] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR) in /home/vflorkw5/public_html/vendor/myclabs/deep-copy/src/DeepCopy/deep_copy.php on line 5
+[02-Dec-2018 08:44:38 Etc/GMT] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR) in /home/vflorkw5/public_html/vendor/myclabs/deep-copy/src/DeepCopy/deep_copy.php on line 5
+[02-Dec-2018 08:44:41 Etc/GMT] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR) in /home/vflorkw5/public_html/vendor/myclabs/deep-copy/src/DeepCopy/deep_copy.php on line 5
+[02-Dec-2018 08:44:44 Etc/GMT] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR) in /home/vflorkw5/public_html/vendor/myclabs/deep-copy/src/DeepCopy/deep_copy.php on line 5
+[02-Dec-2018 08:44:46 Etc/GMT] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR) in /home/vflorkw5/public_html/vendor/myclabs/deep-copy/src/DeepCopy/deep_copy.php on line 5
+[02-Dec-2018 08:46:43 Etc/GMT] PHP Fatal error:  Class 'Mpdf\Mpdf' not found in /home/vflorkw5/public_html/application/controllers/Product.php on line 151
+[02-Dec-2018 09:06:18 Etc/GMT] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR) in /home/vflorkw5/public_html/vendor/myclabs/deep-copy/src/DeepCopy/deep_copy.php on line 5
+[02-Dec-2018 09:28:15 Etc/GMT] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR) in /home/vflorkw5/public_html/vendor/myclabs/deep-copy/src/DeepCopy/deep_copy.php on line 5
+[02-Dec-2018 09:40:02 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/home/vflorkw5/public_html/application/libraries/mpdf/vendor/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/vflorkw5/public_html/application/libraries/M_pdf.php on line 5
+[05-Dec-2018 17:39:46 Etc/GMT] PHP Fatal error:  Class 'Mpdf\Mpdf' not found in /home/vflorkw5/public_html/application/controllers/Product.php on line 151
+[05-Dec-2018 17:39:48 Etc/GMT] PHP Fatal error:  Class 'Mpdf\Mpdf' not found in /home/vflorkw5/public_html/application/controllers/Product.php on line 151
+[05-Dec-2018 17:39:54 Etc/GMT] PHP Fatal error:  Class 'Mpdf\Mpdf' not found in /home/vflorkw5/public_html/application/controllers/Product.php on line 136
+[05-Dec-2018 17:40:10 Etc/GMT] PHP Fatal error:  Class 'Mpdf\Mpdf' not found in /home/vflorkw5/public_html/application/controllers/Product.php on line 136
+[06-Dec-2018 05:37:27 Etc/GMT] PHP Fatal error:  Class 'Mpdf\Mpdf' not found in /home/vflorkw5/public_html/application/controllers/Product.php on line 151
+[06-Dec-2018 05:37:54 Etc/GMT] PHP Fatal error:  Class 'Mpdf\Mpdf' not found in /home/vflorkw5/public_html/application/controllers/Product.php on line 136
+[06-Dec-2018 05:58:39 Etc/GMT] PHP Fatal error:  Class 'Mpdf\Mpdf' not found in /home/vflorkw5/public_html/application/controllers/Product.php on line 136
+[06-Dec-2018 06:00:49 Etc/GMT] PHP Fatal error:  Class 'Mpdf\Mpdf' not found in /home/vflorkw5/public_html/application/controllers/Product.php on line 136
+[06-Dec-2018 06:01:54 Etc/GMT] PHP Fatal error:  Class 'Mpdf\Mpdf' not found in /home/vflorkw5/public_html/application/controllers/Product.php on line 135
+[27-Feb-2019 12:39:40 Etc/GMT] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/vflorkw5/public_html/application/views/addProductToCustomer.php on line 27
